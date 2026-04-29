@@ -1,5 +1,5 @@
 {
-  "message": "Aura Diary is running not working.",
-  "severity": "warning",
+  "message": "Aura Diary is running normally.",
+  "severity": "info",
   "show_until": "2099-01-01T00:00:00Z"
 }
